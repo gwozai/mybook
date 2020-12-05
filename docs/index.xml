@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>蘭陵N散記</title>
-    <link>http://lanlingzi.cn/</link>
-    <description>Recent content on 蘭陵N散記</description>
+    <title>yiye blog</title>
+    <link>https://shixinerya.github.io/mybook/</link>
+    <description>Recent content on yiye blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Dec 2020 22:42:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Dec 2020 23:17:46 +0800</lastBuildDate>
     
-	<atom:link href="http://lanlingzi.cn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shixinerya.github.io/mybook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Sikaodekuaiman</title>
+      <link>https://shixinerya.github.io/mybook/post/sikaodekuaiman/</link>
+      <pubDate>Sat, 05 Dec 2020 23:17:46 +0800</pubDate>
+      
+      <guid>https://shixinerya.github.io/mybook/post/sikaodekuaiman/</guid>
+      <description>思考的快与慢 第二部分：启发法和偏见 第十章 大数法则与小数定律 ​ 一项研究对美国3 141个县的肾癌发病率进行了调查，调查显示该病的分布模式很值得注</description>
+    </item>
+    
+    <item>
       <title>xxxxxxx</title>
-      <link>http://lanlingzi.cn/post/first/</link>
+      <link>https://shixinerya.github.io/mybook/post/first/</link>
       <pubDate>Sat, 05 Dec 2020 22:42:07 +0800</pubDate>
       
-      <guid>http://lanlingzi.cn/post/first/</guid>
+      <guid>https://shixinerya.github.io/mybook/post/first/</guid>
       <description>写一些书</description>
     </item>
     
